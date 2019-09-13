@@ -1,0 +1,2 @@
+# TradingCompanyServer
+Trading Company server
